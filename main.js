@@ -4,9 +4,6 @@
 *    datackling.com
 */
 
-const WIDTH = 580
-const HEIGHT = 340
-
 const svg = d3.select("#chart-area")
     .append("svg")
     .attr("width", 600)
