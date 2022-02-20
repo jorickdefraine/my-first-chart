@@ -1,5 +1,5 @@
 
-![Jorick's github stats](https://github-readme-stats.vercel.app/api?username=jorickdefraine&show_icons=true&theme=radical)
+![Jorick's github stats](https://github-readme-stats.vercel.app/api?username=jorickdefraine&show_icons=true&theme=radical&count_private=true)
 
 
 
